@@ -1,0 +1,11 @@
+World Happiness Report from 2015 to 2020
+
+For this Analysis, I am going to visualize the happiness report for country Nigeria.
+
+For this to be achieved, the following has to be done:
+i. the column names for all years will be renamed.
+ii. the columns will then be filtered
+iii. write a for loop to see if all dataset has country Nigeria
+iii. since Nigeria is occuring just once in the dataset, the country will be extracted to a new container for all years.
+iv. the visualization will be done.
+v. the predictive analysis will also be done for see the happiness rate in years to come.
